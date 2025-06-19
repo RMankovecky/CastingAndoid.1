@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_x_high">#8C8C9A</color>
+    <color name="surface_x_low">#FFFFFF</color>
+    <color name="surface_brand">#0050FF</color>
+    <color name="surface_danger">#DC2828</color>
+    <color name="surface_danger_variant">#FFDCDC</color>
+    <color name="surface_warning">#A56315</color>
+    <color name="surface_warning_variant">#FAF1B6</color>
+
+    <!-- Content Colors -->
+    <color name="content_xx_high">#2C2C31</color>
+    <color name="content_medium">#8C8C9A</color>
+    <color name="content_low">#C9C9CE</color>
+    <color name="content_danger">#DC2828</color>
+    <color name="content_warning">#A56315</color>
+
+    <!-- State Colors -->
+    <color name="state_hover">#0F1A1A1A</color>
+    <color name="state_focus">#CC1A1A1A</color>
+</resources>
